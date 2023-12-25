@@ -77,7 +77,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://te.legra.ph/file/7757731c3e8b784b6a550.png",
+START_IMG_URL = ["https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg",
                  "https://te.legra.ph/file/c15d01b3e6b40ea141dc9.jpg",
                  "https://te.legra.ph/file/58b491b39cee854695fa9.jpg"]
     
