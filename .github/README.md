@@ -21,7 +21,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Venomxboss/KunoMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/aashuxxD/KunoMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
